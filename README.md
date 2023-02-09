@@ -8,7 +8,7 @@ Data science portfolio
 
 **2nd Task: Predicting customer buying behaviour**
 * Built a binary classification model that is able to predict a customer making a booking 
-![](https://github.com/UssinaSabina/Portfolio_UsinaSabina/blob/main/images/important_features.png)
+![](/images/important_features.png)
 
 # [Project 2: Standard Bank Virtual Experience Program](https://github.com/UssinaSabina/StandardBank_virtual_experience_program)
 * Performed EDA (manually and by using AutoEDA libraries) and prepared data.
