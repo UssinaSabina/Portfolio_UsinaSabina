@@ -14,4 +14,4 @@ Data science portfolio
 * Performed EDA (manually and by using AutoEDA libraries) and prepared data.
 * Built a binary classification model predicting loan defaults, tried 4 different models: Random Forest, Support Vector Machines, AdaBoost, Gradient Boosting.
 * Performed minimal hyperparameter tuning using RandomizedSearchCV and reached 86,2% accuracy score with Random Forest.
-![](https://github.com/UssinaSabina/Portfolio_UsinaSabina/blob/main/images/roc_curves.png)
+![](/images/roc_curves.png)
